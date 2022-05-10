@@ -1,5 +1,5 @@
 {
-  "name": "fundamentos-app",
+  "name": "03-fundamentos-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,7 +23,7 @@
   "author": "Jesús Antonio Ugaz Vegas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jugaz/fundamentos-app/issues"
+    "url": "https://github.com/jugaz/03-fundamentos-app/issues"
   },
-  "homepage": "https://github.com/jugaz/fundamentos-app#readme"
+  "homepage": "https://github.com/jugaz/03-fundamentos-app#readme"
 }
