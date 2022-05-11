@@ -20,6 +20,10 @@
     "babel-jest": "^27.0.6",
     "jest": "^27.0.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugaz/03-fundamentos-app.git"
+  },
   "author": "Jesús Antonio Ugaz Vegas",
   "license": "ISC",
   "bugs": {
